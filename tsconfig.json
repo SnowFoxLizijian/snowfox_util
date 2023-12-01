@@ -12,13 +12,6 @@
     ]
   },
   "files": [
-    "index.ts",
-    "lib/numToCapital.ts",
-    "lib/rules.ts",
-    "lib/time.ts",
-    "lib/getItem.ts",
-    "lib/mergeSort.ts",
-    "lib/deepCopy.ts"
   ],
   "include": [
     "./lib/**/*"

@@ -1,8 +1,8 @@
 {
   "name": "snowfox-util",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
-  "main": "./dist/utils.min.js",
+  "main": "utils.min.js",
   "author": "lizijian",
   "bugs": "",
   "keywords": [],

@@ -1,5 +1,5 @@
 type item = any
-const getItem = (arr:any[], key: string, value: unknown, children?: string): item => {
+const getItem = (arr:item[], key: string, value: unknown, children?: string): item => {
   for (const item of arr) {
     if (item[key] === value) {
       return item
