@@ -1,0 +1,30 @@
+{
+  "name": "snowfox-util",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./dist/utils.min.js",
+  "author": "lizijian",
+  "bugs": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "build": "webpack"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "os": [
+    "darwin",
+    "linux"
+  ],
+  "files": [
+    "node_modules"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.10.1",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.2",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
