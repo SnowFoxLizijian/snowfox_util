@@ -12,6 +12,17 @@
     ]
   },
   "files": [
+    "index.ts",
+    "lib/colorConVersion.ts",
+    "lib/deepCopy.ts",
+    "lib/fullScreen.ts",
+    "lib/getItem.ts",
+    "lib/getUrl.ts",
+    "lib/mergeSort.ts",
+    "lib/numToCapital.ts",
+    "lib/randomColor.ts",
+    "lib/rules.ts",
+    "lib/time.ts"
   ],
   "include": [
     "./lib/**/*"

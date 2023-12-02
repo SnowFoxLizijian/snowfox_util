@@ -7,6 +7,7 @@ import time from './lib/time'
 import colorConVersion from './lib/colorConVersion'
 import randomColor from './lib/randomColor'
 import getUrl from './lib/getUrl'
+import fullScreen from './lib/fullScreen'
 
 export default {
   numToCapital,
@@ -17,5 +18,6 @@ export default {
   time,
   colorConVersion,
   randomColor,
-  getUrl
+  getUrl,
+  fullScreen
 }

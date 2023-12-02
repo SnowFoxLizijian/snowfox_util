@@ -19,4 +19,5 @@ declare const _default: {
     randomColor: typeof randomColor
     getUrl: typeof getUrl
 };
+
 export default _default;

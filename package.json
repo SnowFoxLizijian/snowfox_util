@@ -13,10 +13,6 @@
   "engines": {
     "node": ">=14"
   },
-  "os": [
-    "darwin",
-    "linux"
-  ],
   "files": [
     "node_modules"
   ],
