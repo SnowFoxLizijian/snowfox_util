@@ -22,7 +22,8 @@
     "lib/numToCapital.ts",
     "lib/randomColor.ts",
     "lib/rules.ts",
-    "lib/time.ts"
+    "lib/time.ts",
+    "lib/getAllKeys.ts"
   ],
   "include": [
     "./lib/**/*"

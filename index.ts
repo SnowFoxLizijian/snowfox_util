@@ -8,6 +8,7 @@ import colorConVersion from './lib/colorConVersion'
 import randomColor from './lib/randomColor'
 import getUrl from './lib/getUrl'
 import fullScreen from './lib/fullScreen'
+import getAllKeys from './lib/getAllKeys'
 
 export default {
   numToCapital,
@@ -19,5 +20,6 @@ export default {
   colorConVersion,
   randomColor,
   getUrl,
-  fullScreen
+  fullScreen,
+  getAllKeys
 }
